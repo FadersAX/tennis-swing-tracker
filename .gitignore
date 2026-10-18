@@ -1,0 +1,10 @@
+build/
+out/
+.vs/
+.vscode/
+*.exe
+*.obj
+*.o
+
+# Your own recorded sessions (the demo in examples/ is committed)
+sessions/

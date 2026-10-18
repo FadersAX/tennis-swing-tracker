@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="70" y="26" font-size="16" font-weight="600" fill="#1f2328">Peak angular velocity per swing</text>
+<line x1="70" x2="876" y1="368.0" y2="368.0" stroke="#e6e8eb"/><text x="62" y="372.0" text-anchor="end" font-size="11" fill="#57606a">0</text>
+<line x1="70" x2="876" y1="264.7" y2="264.7" stroke="#e6e8eb"/><text x="62" y="268.7" text-anchor="end" font-size="11" fill="#57606a">500</text>
+<line x1="70" x2="876" y1="161.4" y2="161.4" stroke="#e6e8eb"/><text x="62" y="165.4" text-anchor="end" font-size="11" fill="#57606a">1000</text>
+<line x1="70" x2="876" y1="58.2" y2="58.2" stroke="#e6e8eb"/><text x="62" y="62.2" text-anchor="end" font-size="11" fill="#57606a">1500</text>
+<line x1="70.0" x2="70.0" y1="368" y2="373" stroke="#8c959f"/><text x="70.0" y="386" text-anchor="middle" font-size="11" fill="#57606a">0</text>
+<line x1="228.0" x2="228.0" y1="368" y2="373" stroke="#8c959f"/><text x="228.0" y="386" text-anchor="middle" font-size="11" fill="#57606a">10</text>
+<line x1="386.1" x2="386.1" y1="368" y2="373" stroke="#8c959f"/><text x="386.1" y="386" text-anchor="middle" font-size="11" fill="#57606a">20</text>
+<line x1="544.1" x2="544.1" y1="368" y2="373" stroke="#8c959f"/><text x="544.1" y="386" text-anchor="middle" font-size="11" fill="#57606a">30</text>
+<line x1="702.2" x2="702.2" y1="368" y2="373" stroke="#8c959f"/><text x="702.2" y="386" text-anchor="middle" font-size="11" fill="#57606a">40</text>
+<line x1="860.2" x2="860.2" y1="368" y2="373" stroke="#8c959f"/><text x="860.2" y="386" text-anchor="middle" font-size="11" fill="#57606a">50</text>
+<clipPath id="plot"><rect x="70" y="44" width="806" height="324"/></clipPath>
+<g clip-path="url(#plot)">
+<g fill="#0072B2"><circle cx="85.8" cy="144.3" r="3.5"/><circle cx="101.6" cy="147.0" r="3.5"/><circle cx="117.4" cy="130.3" r="3.5"/><circle cx="133.2" cy="143.4" r="3.5"/><circle cx="149.0" cy="129.8" r="3.5"/><circle cx="164.8" cy="144.8" r="3.5"/><circle cx="180.6" cy="115.7" r="3.5"/><circle cx="196.4" cy="144.9" r="3.5"/><circle cx="212.2" cy="143.2" r="3.5"/><circle cx="228.0" cy="153.2" r="3.5"/><circle cx="243.8" cy="127.7" r="3.5"/><circle cx="259.6" cy="146.7" r="3.5"/><circle cx="275.5" cy="126.7" r="3.5"/><circle cx="291.3" cy="136.2" r="3.5"/><circle cx="307.1" cy="172.8" r="3.5"/><circle cx="322.9" cy="122.7" r="3.5"/><circle cx="338.7" cy="148.6" r="3.5"/><circle cx="354.5" cy="174.1" r="3.5"/><circle cx="370.3" cy="163.2" r="3.5"/><circle cx="386.1" cy="128.6" r="3.5"/><circle cx="401.9" cy="147.4" r="3.5"/><circle cx="417.7" cy="160.7" r="3.5"/><circle cx="433.5" cy="147.9" r="3.5"/><circle cx="449.3" cy="171.5" r="3.5"/><circle cx="465.1" cy="118.0" r="3.5"/></g>
+<g fill="#E69F00"><circle cx="480.9" cy="86.4" r="3.5"/><circle cx="496.7" cy="131.3" r="3.5"/><circle cx="512.5" cy="130.3" r="3.5"/><circle cx="528.3" cy="89.5" r="3.5"/><circle cx="544.1" cy="125.4" r="3.5"/><circle cx="559.9" cy="141.2" r="3.5"/><circle cx="575.7" cy="142.3" r="3.5"/><circle cx="591.5" cy="110.8" r="3.5"/><circle cx="607.3" cy="102.3" r="3.5"/><circle cx="623.1" cy="107.1" r="3.5"/><circle cx="638.9" cy="131.3" r="3.5"/><circle cx="654.7" cy="125.9" r="3.5"/><circle cx="670.5" cy="120.9" r="3.5"/><circle cx="686.4" cy="120.7" r="3.5"/><circle cx="702.2" cy="129.0" r="3.5"/><circle cx="718.0" cy="139.4" r="3.5"/><circle cx="733.8" cy="130.9" r="3.5"/><circle cx="749.6" cy="163.6" r="3.5"/><circle cx="765.4" cy="104.5" r="3.5"/><circle cx="781.2" cy="123.1" r="3.5"/><circle cx="797.0" cy="120.3" r="3.5"/><circle cx="812.8" cy="180.0" r="3.5"/><circle cx="828.6" cy="138.5" r="3.5"/><circle cx="844.4" cy="143.8" r="3.5"/><circle cx="860.2" cy="131.0" r="3.5"/></g>
+<polyline fill="none" stroke="#0072B2" stroke-width="2.5" stroke-linejoin="round" points="79.5,143.6 471.4,143.6 "/>
+<polyline fill="none" stroke="#E69F00" stroke-width="2.5" stroke-linejoin="round" points="474.6,126.8 866.5,126.8 "/>
+</g>
+<line x1="70" x2="70" y1="44" y2="368" stroke="#8c959f"/>
+<line x1="70" x2="876" y1="368" y2="368" stroke="#8c959f"/>
+<text x="473" y="408" text-anchor="middle" font-size="12" fill="#1f2328">swing number</text>
+<text transform="translate(18 206) rotate(-90)" text-anchor="middle" font-size="12" fill="#1f2328">peak angular velocity (deg/s)</text>
+<circle cx="819.0" cy="22" r="5" fill="#E69F00"/><text x="828.0" y="26" font-size="12" fill="#1f2328">set 2</text>
+<circle cx="762.0" cy="22" r="5" fill="#0072B2"/><text x="771.0" y="26" font-size="12" fill="#1f2328">set 1</text>
+</svg>
